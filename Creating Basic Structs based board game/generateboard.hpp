@@ -1,0 +1,1 @@
+void generateBoard(int &row, int &col, int **&board);
