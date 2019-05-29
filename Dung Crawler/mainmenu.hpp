@@ -1,0 +1,1 @@
+int Mainmenu(char* message, int min, int max);
