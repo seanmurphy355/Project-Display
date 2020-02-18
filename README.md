@@ -29,7 +29,7 @@ B - Depicts the boss room.
 p - Depicts the players location.
 ```
 # Preview of the Dungeon Crawler game 
-About:Each game in this repository was built using the same tools and function similarly to the example below. 
+About: Each of the games in this repository were built only to run on the terminal. The goals of these projects were to improve my skills in object oriented programing.  
 
 ![Game](https://user-images.githubusercontent.com/51139158/74704553-a234d500-51c5-11ea-8da5-0e01b5d93408.gif)
 
