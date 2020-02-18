@@ -19,6 +19,9 @@ struct DynArr
 	int capacity;	/* capacity of the array */
 };
 ```
+# Introduction to Constructors
+The C++ constructor is a member function of a class which allows for intialization class objects. Constructors are used to eliminate defualt values by user defined values,Whenever we generate an object of any class the constructor then allocates memory for all the data members to be intialized to there defualt values.(The general purpose of a constructor is to intialze the obkect of a class note: constructors do not have a return type).
+
 
 # Dungeon Crawler Explanation!
 This is a low level implementaion of a dungeon crawler game. There is only 1 floor to the game and the user gets 11 turns to move.The user must find all of the keys and items in order to defeat the boss that is in the final room. 
