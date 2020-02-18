@@ -1,5 +1,5 @@
 # Terminal-Games
-This repository holds my past coding projects using C++ object oriented programing
+This repository holds my past coding projects using C++ object oriented programing.
 
 
 ### Built With
