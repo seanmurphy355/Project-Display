@@ -1,5 +1,5 @@
 # Terminal-Games
-This repository holds some of my past coding projects in C++/Usage of c++ structs
+This repository holds some of my past coding projects in C++ and Structs
 
 
 ### Built With
