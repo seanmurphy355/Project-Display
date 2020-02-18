@@ -7,7 +7,7 @@ This repository holds my past coding projects using C++ object oriented programi
 * [C++](https://en.wikipedia.org/wiki/C%2B%2B) -Standard Language 
 
 # Introduction to Structs
-In C++,classes and structs are used as blueprints in order to create an instance of a class.Structs are used as low level objects which allow for the programer to group variables of a mixed data type togther into a single unit.Unlike a class, stucts in C++ are value type rather than reference type.These user defined data types allow for us to create objects such as entities in a game.
+In C++, classes and structs are used as blueprints in order to create an instance of a class.Structs are used as low level objects which allow for the programer to group variables of a mixed data type togther into a single unit.Unlike a class, stucts in C++ are value type rather than reference type.These user defined data types allow for us to create objects such as entities in a game.
 
 # Example Implementation of a Struct
 - This implementation defines a dynamic array as a structure of type DynArr
@@ -19,8 +19,11 @@ struct DynArr
 	int capacity;	/* capacity of the array */
 };
 ```
-# Introduction to Constructors
-The C++ constructor is a member function of a class which allows for intialization class objects. Constructors are used to eliminate defualt values by user defined values,Whenever we generate an object of any class the constructor then allocates memory for all the data members to be intialized to there defualt values.(The general purpose of a constructor is to intialze the obkect of a class note: constructors do not have a return type).
+# Introduction to the Constructor
+The C++ constructor is a member function of a class which allows for the initialization of  class objects. Constructors are used to eliminate default values by user defined values.Whenever we generate an object of a class the constructor then allocates memory for all the data properties to be initialized to their default values.The general purpose of a constructor is to initialize the object of a class note: constructors do not have a return type.
+
+# Example Implementation of a Constructor
+
 
 
 # Dungeon Crawler Explanation!
