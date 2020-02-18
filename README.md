@@ -22,7 +22,7 @@ struct Player
 The C++ constructor is a member function of a class which allows for the initialization of  class objects. Constructors are used to eliminate default values by user defined values.Whenever we generate an object of a class the constructor then allocates memory for all the data properties to be initialized to their default values.The general purpose of a constructor is to initialize the object of a class note: constructors do not have a return type.
 
 # Example Implementation of a Constructor
-Bellow is an example Constructor declartion contained in text based fantasy game folder in: medusa.hpp
+Below is an example declaration constructor contained in text based fantasy game folder in: medusa.hpp
 ```sh
 // Decleration of constructor, as well as potential inheritance that the class might use.
 // including public and private data types
