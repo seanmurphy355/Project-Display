@@ -7,7 +7,7 @@ This repository holds my past coding projects using C++ object oriented programi
 * [C++](https://en.wikipedia.org/wiki/C%2B%2B) -Standard Language 
 
 # Introduction to Structs
-In C++, classes and structs are used as blueprints in order to create an instance of a class. Structs are used as low level objects which allow for the programer to group variables of mixed data types togther into a single unit. Unlike a class, structs in C++ are value type rather than reference type. Structs allow for a programer to bunch smaller variables into one larger entity such as a "Player".Our player might have several different attributes the struct keyword allows for us to glue togther a player. We are able to give our player a name as well as health points while using a struct the struct keyword. 
+In C++, classes and structs are used as blueprints in order to create an instance of a class. Structs are used as low level objects which allow for the programer to group variables of mixed data types togther into a single unit. Unlike a class, structs in C++ are value type rather than reference type. Structs allow for a programer to bunch smaller variables into one larger entity such as a "Player".Our player might have several different attributes the struct keyword allows for us to glue togther a player. We are able to give our player a name as well as health points while using the struct keyword. 
 
 # Example Implementation of a Struct
 - This implementation defines a Player as a structure of type Player.
