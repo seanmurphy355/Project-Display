@@ -38,7 +38,7 @@ private:
 ```
 
 # Dungeon Crawler Explanation
-This is a low level implementaion of a dungeon crawler game. There is only one floor to the game and the user gets 11 turns to move.The user must find all of the keys and items in order to defeat the boss that is in the final room. 
+This is a low level implementaion of a dungeon crawler game. There is only one floor to the game and the user gets 11 turns to move.The user must find all of the keys and items in order to defeat the boss in the final room. 
 ```sh
 I - Depicts tool room.
 L - Depicts a locked room.
