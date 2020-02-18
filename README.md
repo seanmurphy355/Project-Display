@@ -26,7 +26,7 @@ The C++ constructor is a member function of a class which allows for the initial
 
 
 # Dungeon Crawler Explanation!
-This is a low level implementaion of a dungeon crawler game. There is only 1 floor to the game and the user gets 11 turns to move.The user must find all of the keys and items in order to defeat the boss that is in the final room. 
+This is a low level implementaion of a dungeon crawler game. There is only one floor to the game and the user gets 11 turns to move.The user must find all of the keys and items in order to defeat the boss that is in the final room. 
 ```sh
 I - Depicts tool room.
 L - Depicts a locked room.
@@ -34,7 +34,7 @@ B - Depicts the boss room.
 p - Depicts the players location.
 ```
 # Preview of the Dungeon Crawler game 
-About: Each of the games in this repository were built only to run on the terminal. The goals of these projects were to improve my skills in object oriented programing.  
+About: Each of the games in this repository were built only to run on in the terminal. The goal of these projects were to improve my skills in object oriented programing.  
 
 ![Game](https://user-images.githubusercontent.com/51139158/74704553-a234d500-51c5-11ea-8da5-0e01b5d93408.gif)
 
